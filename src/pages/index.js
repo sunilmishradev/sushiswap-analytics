@@ -129,7 +129,7 @@ function IndexPage() {
         </Grid>
 
         <Grid item xs={12}>
-          <PairTable title="Top Sushi Liquidity Pairs" pairs={pairs} />
+          <PairTable title="Top SafeSwap Liquidity Pairs" pairs={pairs} />
         </Grid>
 
         <Grid item xs={12}>
@@ -138,7 +138,7 @@ function IndexPage() {
 
         <Grid item xs={12}>
           <PoolTable
-            title="Sushi Reward Pools"
+            title="SafeSwap Reward Pools"
             pools={pools}
             orderBy="tvl"
             order="desc"
