@@ -171,7 +171,7 @@ function BarPage() {
   return (
     <AppShell>
       <Head>
-        <title>Sushi Bar | SushiSwap Analytics</title>
+        <title>SafeSwap Bar | SafeSwap Analytics</title>
       </Head>
 
       <Grid container spacing={3}>
